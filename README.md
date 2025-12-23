@@ -41,4 +41,4 @@ Welcome to my personal portfolio website! This project showcases my work, techni
 ##live Demo
 
 
-https://hritik1299.github.io/Portfolio/
+https://ritik5799.github.io/Portfolio/
